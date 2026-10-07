@@ -634,12 +634,11 @@ I'm looking for **Entry-Level Data Analyst / Junior Data Analyst opportunities**
 
 <td align="center">
 
-<a href="mailto:lokeshmk2004@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lokeshmk2004@gmail.com&su=Data%20Analyst%20Opportunity&body=Hello%20Lokeshvaran,%0A%0AI%20would%20like%20to%20discuss%20a%20Data%20Analyst%20opportunity%20with%20you.%0A%0ARegards," target="_blank">
 <img src="https://img.shields.io/badge/📩_Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </td>
-
 </tr>
 </table>
 
