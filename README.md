@@ -243,7 +243,7 @@ My projects focus on real-world business problems, KPI analysis, dashboard devel
 
 <td width="70%">
 
-### Power BI · SQL · Excel · DAX
+### Power BI · Excel 
 
 Interactive sales analytics dashboard designed to monitor business performance and identify important sales trends.
 
@@ -270,7 +270,7 @@ Interactive sales analytics dashboard designed to monitor business performance a
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+
 
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
@@ -290,7 +290,7 @@ Interactive sales analytics dashboard designed to monitor business performance a
 
 <td width="70%">
 
-### SQL · Data Analysis
+### Biquery · Data Analysis
 
 Analyzed e-commerce data to understand customer behavior, product performance, order patterns and sales trends.
 
