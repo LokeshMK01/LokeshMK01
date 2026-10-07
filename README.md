@@ -601,8 +601,58 @@ I'm looking for **Entry-Level Data Analyst / Junior Data Analyst opportunities**
 
 ---
 
+<br>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:0F172A&height=120&section=footer"/>
+---
+
+## 🚀 Let's Build Something With Data
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights;Building+Better+Dashboards;Solving+Business+Problems+With+Analytics" />
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/LokeshMK01">
+<img src="https://img.shields.io/badge/💻_GitHub-LokeshMK01-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/lokeshvaran-mk/">
+<img src="https://img.shields.io/badge/🔗_LinkedIn-Lokeshvaran_M_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/📩_Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 📊 Analyze &nbsp;•&nbsp; 📈 Visualize &nbsp;•&nbsp; 💡 Discover &nbsp;•&nbsp; 🚀 Deliver
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=8&section=footer"/>
+
+<br>
+
+<sub>© 2026 LOKESHVARAN M K • Data Analyst Portfolio</sub>
 
 </div>
