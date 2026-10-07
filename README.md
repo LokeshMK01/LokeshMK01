@@ -308,10 +308,9 @@
 # 📈 GitHub Analytics
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LokeshMK01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LokeshMK01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshMK01&layout=compact&hide_border=true&theme=transparent" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshMK01&layout=compact&hide_border=true&theme=transparent"/>
 
 <br><br>
 
