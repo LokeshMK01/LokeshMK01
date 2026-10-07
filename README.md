@@ -634,7 +634,7 @@ I'm looking for **Entry-Level Data Analyst / Junior Data Analyst opportunities**
 
 <td align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:lokeshmk2004@gmail.com">
 <img src="https://img.shields.io/badge/📩_Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
