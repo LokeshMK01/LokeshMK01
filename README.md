@@ -1,56 +1,22 @@
 <div align="center">
 
-<!-- ===================== PREMIUM HEADER ===================== -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:083344,100:0891B2&height=260&section=header&text=LOKESHVARAN%20M%20K&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20SQL%20%7C%20PYTHON%20%7C%20POWER%20BI%20%7C%20EXCEL&descAlignY=55&descSize=17&animation=fadeIn"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0891B2&height=230&section=header&text=LOKESHVARAN%20M%20K&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20ANALYST%20%7C%20SQL%20%7C%20PYTHON%20%7C%20POWER%20BI%20%7C%20EXCEL&descAlignY=57&descSize=17"/>
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=Turning+Raw+Data+Into+Meaningful+Insights+%F0%9F%93%8A;Building+Interactive+Power+BI+Dashboards+%F0%9F%93%88;Writing+SQL+Queries+%26+Analyzing+Data+%F0%9F%92%BB;Exploring+Data+With+Python+%F0%9F%90%8D;Transforming+Data+Into+Business+Decisions+%F0%9F%92%A1"
-alt="Typing Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Turning+Data+Into+Meaningful+Insights+%F0%9F%93%8A;Building+Interactive+Power+BI+Dashboards+%F0%9F%93%88;Analyzing+Business+Problems+With+Data+%F0%9F%A7%A0;SQL+%7C+Python+%7C+Power+BI+%7C+Excel" />
 
 <br><br>
-
-<!-- ===================== HEADER SKILLS ===================== -->
-
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=21A366"/>
-
-<br><br>
-
-<!-- ===================== PROFILE LINKS ===================== -->
 
 <a href="https://github.com/LokeshMK01">
-<img src="https://img.shields.io/badge/GitHub-LokeshMK01-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-LokeshMK01-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lokeshvaran-mk/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lokeshmk2004@gmail.com&su=Data%20Analyst%20Opportunity" target="_blank">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img
-src="https://komarev.com/ghpvc/?username=LokeshMK01&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"
-/>
-
-<br><br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Analyze+%E2%86%92+Visualize+%E2%86%92+Discover+%E2%86%92+Deliver"
-alt="Analytics Tagline"
-/>
+<img src="https://komarev.com/ghpvc/?username=LokeshMK01&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -272,11 +238,12 @@ My projects focus on real-world business problems, KPI analysis, dashboard devel
 ## 01 · 📈 Sales Analysis Dashboard
 
 <table>
+
 <tr>
 
 <td width="70%">
 
-### Power BI · Excel · DAX
+### Power BI · Excel 
 
 Interactive sales analytics dashboard designed to monitor business performance and identify important sales trends.
 
@@ -303,11 +270,14 @@ Interactive sales analytics dashboard designed to monitor business performance a
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
+
+
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -315,11 +285,12 @@ Interactive sales analytics dashboard designed to monitor business performance a
 ## 02 · 🛒 E-Commerce Data Analysis
 
 <table>
+
 <tr>
 
 <td width="70%">
 
-### SQL · Data Analysis
+### Biquery · Data Analysis
 
 Analyzed e-commerce data to understand customer behavior, product performance, order patterns and sales trends.
 
@@ -349,6 +320,7 @@ Analyzed e-commerce data to understand customer behavior, product performance, o
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -356,6 +328,7 @@ Analyzed e-commerce data to understand customer behavior, product performance, o
 ## 03 · 👥 HR Analytics Dashboard
 
 <table>
+
 <tr>
 
 <td width="70%">
@@ -394,6 +367,7 @@ Interactive HR dashboard developed to analyze employee data and understand workf
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -401,6 +375,7 @@ Interactive HR dashboard developed to analyze employee data and understand workf
 ## 04 · 🏥 Healthcare Record Dashboard
 
 <table>
+
 <tr>
 
 <td width="70%">
@@ -437,6 +412,7 @@ Healthcare analytics dashboard designed to transform patient records into meanin
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -444,6 +420,7 @@ Healthcare analytics dashboard designed to transform patient records into meanin
 ## 05 · 💰 Financial Dashboard
 
 <table>
+
 <tr>
 
 <td width="70%">
@@ -480,6 +457,7 @@ Interactive financial dashboard designed to analyze business financial performan
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -491,38 +469,58 @@ Interactive financial dashboard designed to analyze business financial performan
 <table>
 
 <tr>
+
 <th>Area</th>
 <th>Skills</th>
+
 </tr>
 
 <tr>
+
 <td>🗄️ <b>SQL</b></td>
+
 <td>Joins · CTEs · Window Functions · Subqueries · Aggregations</td>
+
 </tr>
 
 <tr>
+
 <td>🐍 <b>Python</b></td>
+
 <td>Pandas · NumPy · Seaborn · Matplotlib · EDA</td>
+
 </tr>
 
 <tr>
+
 <td>📈 <b>Power BI</b></td>
+
 <td>DAX · Data Modeling · Power Query · KPI Dashboards</td>
+
 </tr>
 
 <tr>
+
 <td>📊 <b>Excel</b></td>
+
 <td>Pivot Tables · XLOOKUP · Charts · Data Cleaning · Reporting</td>
+
 </tr>
 
 <tr>
+
 <td>📐 <b>Analytics</b></td>
+
 <td>KPI Analysis · Trend Analysis · Data Visualization</td>
+
 </tr>
 
 <tr>
+
 <td>💡 <b>Business</b></td>
+
 <td>Insights · Reporting · Decision Support</td>
+
 </tr>
 
 </table>
@@ -579,109 +577,82 @@ I'm looking for **Entry-Level Data Analyst / Junior Data Analyst opportunities**
 
 ---
 
-# 📈 GitHub Activity
+# 🤝 Let's Connect
 
 <div align="center">
 
-### ⚡ BUILDING • LEARNING • ANALYZING • IMPROVING
+<a href="https://github.com/LokeshMK01">
+
+<img src="https://img.shields.io/badge/GitHub-LokeshMK01-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/lokeshvaran-mk/">
+
+<img src="https://img.shields.io/badge/LinkedIn-lokeshvaran--mk-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<br><br>
+
+### 📊 Analyze • 📈 Visualize • 💡 Discover • 🚀 Deliver
+
+</div>
+
+---
 
 <br>
 
-<table>
+<div align="center">
 
+---
+
+
+## 🚀 Let's Build Something With Data
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights;Building+Better+Dashboards;Solving+Business+Problems+With+Analytics" />
+
+<br><br>
+
+<table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 📊
-
-## 5+
-
-**Projects**
+<a href="https://github.com/LokeshMK01">
+<img src="https://img.shields.io/badge/💻_GitHub-LokeshMK01-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 📈
-
-## 4+
-
-**Dashboards**
+<a href="https://www.linkedin.com/in/lokeshvaran-mk/">
+<img src="https://img.shields.io/badge/🔗_LinkedIn-Lokeshvaran_M_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🗄️
-
-## SQL
-
-**Analytics**
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lokeshmk2004@gmail.com&su=Data%20Analyst%20Opportunity&body=Hello%20Lokeshvaran,%0A%0AI%20would%20like%20to%20discuss%20a%20Data%20Analyst%20opportunity%20with%20you.%0A%0ARegards," target="_blank">
+<img src="https://img.shields.io/badge/📩_Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </td>
-
-<td align="center" width="25%">
-
-### 🐍
-
-## Python
-
-**Analysis**
-
-</td>
-
 </tr>
-
 </table>
 
 <br>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-
-<table>
-
-<tr>
-
-<td width="100%" align="center">
-
-### 🔥 Contribution Activity
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=LokeshMK01&bg_color=0B1120&color=22D3EE&line=0891B2&point=FFFFFF&area_color=083344&area=true&hide_border=true&custom_title=LOKESHVARAN%20M%20K%20%E2%80%94%20GitHub%20Activity"
-width="100%"
-alt="GitHub Contribution Activity"
-/>
-
-</td>
-
-</tr>
-
-</table>
+### 📊 Analyze &nbsp;•&nbsp; 📈 Visualize &nbsp;•&nbsp; 💡 Discover &nbsp;•&nbsp; 🚀 Deliver
 
 <br>
 
-<!-- ===================== ANALYTICS JOURNEY ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=8&section=footer"/>
 
-<table>
+<br>
 
-<tr>
+<sub>© 2026 LOKESHVARAN M K • Data Analyst Portfolio</sub>
 
-<td width="50%" align="center">
-
-### 🧠 Analytics Journey
-
-```text
-🗄️ SQL
-   ↓
-🐍 Python
-   ↓
-🧹 Data Cleaning
-   ↓
-🔍 EDA
-   ↓
-📊 Power BI
-   ↓
-💡 Insights
-   ↓
-🚀 Decisions
+</div>
